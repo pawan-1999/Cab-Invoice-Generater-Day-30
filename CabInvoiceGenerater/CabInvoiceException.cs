@@ -4,7 +4,6 @@ using System.Text;
 
 namespace CabInvoiceGenerater
 {
-   
         class CabInvoiceException : Exception
         {
             public enum ExceptionType
