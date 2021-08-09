@@ -30,7 +30,6 @@ namespace CabInvoiceGenerater
                     this.COST_PER_TIME = 1;
                     this.MINIMUM_FARE = 5;
                 }
-
             }
             catch (CabInvoiceException)
             {
