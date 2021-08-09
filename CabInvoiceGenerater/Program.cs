@@ -6,7 +6,6 @@ namespace CabInvoiceGenerater
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Welcome to Cab Invoice Generator\n");
 
             #region Normal Cab Type
