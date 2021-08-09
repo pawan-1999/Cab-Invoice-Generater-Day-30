@@ -11,7 +11,6 @@ namespace CabInvoiceGeneraterTest
         [SetUp]
         public void Setup()
         {
-            
         }
 
         #region Noraml Cab Type 
